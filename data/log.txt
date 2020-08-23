@@ -1,0 +1,271 @@
+2019-06-15 07:47:25	/shoppers/index.php	::1	localhost:8080
+2019-06-15 07:47:25	/shoppers/index.php	::1	localhost:8080
+2019-06-15 07:49:30	/shoppers/index.php	::1	localhost:8080
+2019-06-15 07:49:47	/shoppers/models/users/login.php	::1	localhost:8080
+2019-06-15 07:49:47	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 07:49:50	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 07:50:03	/shoppers/models/admin/products/insert.php	::1	localhost:8080
+2019-06-15 07:50:05	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 07:50:06	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 07:53:41	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 07:53:47	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 07:54:06	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 07:54:30	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 07:55:03	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 07:56:13	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 07:57:34	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 08:00:24	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 08:01:42	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 08:01:57	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 08:02:20	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 08:03:01	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 08:03:28	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 08:03:50	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 08:05:57	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 08:07:27	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 08:07:42	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 08:43:38	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 08:43:47	/shoppers/models/admin/products/delete.php	::1	localhost:8080
+2019-06-15 08:46:00	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 08:47:34	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 08:47:36	/shoppers/models/admin/products/delete.php	::1	localhost:8080
+2019-06-15 08:47:57	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 08:48:00	/shoppers/models/admin/products/delete.php	::1	localhost:8080
+2019-06-15 08:48:13	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 08:50:34	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 08:50:35	/shoppers/models/admin/products/delete.php	::1	localhost:8080
+2019-06-15 08:51:05	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 08:51:37	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 08:51:42	/shoppers/models/admin/products/delete.php	::1	localhost:8080
+2019-06-15 08:51:43	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 08:51:45	/shoppers/models/admin/products/delete.php	::1	localhost:8080
+2019-06-15 08:51:46	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 08:51:48	/shoppers/models/admin/products/delete.php	::1	localhost:8080
+2019-06-15 08:51:49	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 08:51:51	/shoppers/models/admin/products/delete.php	::1	localhost:8080
+2019-06-15 08:51:52	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 09:36:31	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-15 09:36:34	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:29:11	/shoppers/index.php	::1	Jovan	Jovanovic
+2019-06-21 00:29:12	/shoppers/index.php	::1	Jovan	Jovanovic
+2019-06-21 00:33:03	/shoppers/index.php	::1	Jovan	Jovanovic
+2019-06-21 00:33:05	/shoppers/models/admin/users/download-word.php	::1	localhost:8080
+2019-06-21 00:33:17	/shoppers/models/users/logout.php	::1	Jovan	Jovanovic
+2019-06-21 00:33:17	/shoppers/index.php	::1	localhost:8080
+2019-06-21 00:33:28	/shoppers/models/users/login.php	::1	localhost:8080
+2019-06-21 00:33:28	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:33:38	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:33:40	/shoppers/models/admin/users/download-excel-table.php	::1	localhost:8080
+2019-06-21 00:34:55	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:37:18	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:37:20	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:39:14	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:39:37	/shoppers/models/admin/products/insert.php	::1	localhost:8080
+2019-06-21 00:39:38	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:39:40	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:39:42	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:42:53	/shoppers/models/admin/users/update-user.php	::1	localhost:8080
+2019-06-21 00:42:59	/shoppers/models/users/send-updated-data.php	::1	localhost:8080
+2019-06-21 00:43:05	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:43:24	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:43:25	/shoppers/models/admin/users/update-user.php	::1	localhost:8080
+2019-06-21 00:43:31	/shoppers/models/users/send-updated-data.php	::1	localhost:8080
+2019-06-21 00:43:32	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:43:38	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:43:40	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:43:40	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:43:41	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:43:45	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:44:16	/shoppers/models/admin/products/insert.php	::1	localhost:8080
+2019-06-21 00:44:18	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:44:20	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:44:45	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:44:49	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:44:50	/shoppers/models/admin/products/products-cart.php	::1	localhost:8080
+2019-06-21 00:44:52	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:44:53	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:44:56	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:44:57	/shoppers/models/admin/products/products-cart.php	::1	localhost:8080
+2019-06-21 00:44:58	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:45:00	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:45:03	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:45:04	/shoppers/models/admin/products/products-cart.php	::1	localhost:8080
+2019-06-21 00:45:05	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:45:07	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:45:16	/shoppers/models/admin/products/sort_products.php	::1	localhost:8080
+2019-06-21 00:45:18	/shoppers/models/admin/products/sort_products.php	::1	localhost:8080
+2019-06-21 00:45:19	/shoppers/models/admin/products/sort_products.php	::1	localhost:8080
+2019-06-21 00:45:21	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 00:45:22	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 00:45:24	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 00:45:25	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 00:45:27	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 00:45:29	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 00:45:29	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 00:45:31	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:45:34	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:45:59	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:46:08	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:46:09	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:46:10	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:46:11	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:46:12	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:46:13	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:46:38	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:51:53	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:52:04	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 00:52:25	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 00:52:27	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 00:52:33	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:04:26	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 01:04:29	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:05:00	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 01:05:01	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:06:14	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 01:06:16	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:07:29	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 01:07:30	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:10:11	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 01:10:13	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:10:42	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 01:10:44	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:11:26	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 01:11:29	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:12:11	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 01:12:13	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:14:15	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 01:14:17	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:14:22	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:14:33	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 01:14:39	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:14:46	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:14:53	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:15:18	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 01:15:20	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:15:24	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:16:49	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 01:16:51	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:17:08	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 01:17:09	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:23:48	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 01:26:58	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 01:27:00	/shoppers/models/admin/users/update-user.php	::1	localhost:8080
+2019-06-21 01:27:15	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 01:27:20	/shoppers/models/users/logout.php	::1	Dusko	Stupar
+2019-06-21 01:27:20	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:27:37	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:27:38	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:27:42	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:27:42	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:27:42	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:27:42	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:27:42	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:27:43	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:27:43	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:27:43	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:27:43	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:27:43	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:27:44	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:27:47	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:27:47	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:27:47	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:27:47	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:27:49	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:27:49	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:27:51	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:27:52	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:27:52	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:27:53	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:27:53	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:27:54	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:30:36	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-06-21 01:30:36	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:30:42	/shoppers/models/users/login.php	::1	localhost:8080
+2019-06-21 01:30:42	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:30:50	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:30:52	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:32:18	/shoppers/models/users/login.php	::1	localhost:8080
+2019-06-21 01:32:18	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 01:32:21	/shoppers/models/users/logout.php	::1	Dusko	Stupar
+2019-06-21 01:32:21	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:32:46	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:32:49	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:33:27	/shoppers/models/users/login.php	::1	localhost:8080
+2019-06-21 01:33:27	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:33:40	/shoppers/models/users/login.php	::1	localhost:8080
+2019-06-21 01:33:40	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:34:48	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:34:54	/shoppers/models/users/login.php	::1	localhost:8080
+2019-06-21 01:34:54	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:35:30	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:35:39	/shoppers/models/users/login.php	::1	localhost:8080
+2019-06-21 01:35:39	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:35:51	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:35:58	/shoppers/models/users/login.php	::1	localhost:8080
+2019-06-21 01:36:23	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:36:27	/shoppers/models/users/login.php	::1	localhost:8080
+2019-06-21 01:36:54	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:36:58	/shoppers/models/users/login.php	::1	localhost:8080
+2019-06-21 01:37:15	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:37:18	/shoppers/models/users/login.php	::1	localhost:8080
+2019-06-21 01:37:37	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:37:40	/shoppers/models/users/login.php	::1	localhost:8080
+2019-06-21 01:38:08	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:38:11	/shoppers/models/users/login.php	::1	localhost:8080
+2019-06-21 01:38:22	/shoppers/models/users/login.php	::1	localhost:8080
+2019-06-21 01:38:22	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 01:38:26	/shoppers/models/users/logout.php	::1	Dusko	Stupar
+2019-06-21 01:38:26	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:39:02	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:39:03	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:39:05	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:42:13	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:43:46	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:43:47	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:43:52	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:44:44	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:44:48	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:46:10	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:46:18	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:46:24	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:46:28	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:46:29	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:46:33	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:46:34	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:47:08	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:50:12	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:52:05	/shoppers/index.php	::1	localhost:8080
+2019-06-21 01:52:16	/shoppers/models/users/login.php	::1	localhost:8080
+2019-06-21 01:52:16	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 01:52:22	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 01:52:52	/shoppers/models/admin/products/insert.php	::1	localhost:8080
+2019-06-21 01:52:54	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 01:52:56	/shoppers/index.php	::1	Dusko	Stupar
+2019-06-21 01:52:59	/shoppers/index.php	::1	Dusko	Stupar
+2019-12-15 10:57:44	/shoppers/index.php	::1	localhost:8080
+2019-12-15 10:57:52	/shoppers/index.php	::1	localhost:8080
+2019-12-15 10:57:52	/shoppers/index.php	::1	localhost:8080
+2019-12-15 10:57:58	/shoppers/index.php	::1	localhost:8080
+2019-12-15 10:58:06	/shoppers/models/admin/products/sort_products.php	::1	localhost:8080
+2019-12-15 10:58:08	/shoppers/models/admin/products/sort_products.php	::1	localhost:8080
+2019-12-15 10:58:12	/shoppers/models/admin/products/sort_products.php	::1	localhost:8080
+2019-12-15 10:58:14	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-12-15 10:58:15	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-12-15 10:58:16	/shoppers/models/admin/products/filter_products.php	::1	localhost:8080
+2019-12-15 10:58:32	/shoppers/models/users/login.php	::1	localhost:8080
+2019-12-15 10:59:00	/shoppers/models/users/login.php	::1	localhost:8080
+2019-12-15 10:59:00	/shoppers/index.php	::1	Dusko	Stupar
+2019-12-15 10:59:14	/shoppers/index.php	::1	Dusko	Stupar
+2019-12-15 10:59:34	/shoppers/index.php	::1	Dusko	Stupar
+2019-12-15 10:59:35	/shoppers/index.php	::1	Dusko	Stupar
+2019-12-15 10:59:39	/shoppers/models/admin/users/update-user.php	::1	localhost:8080
+2019-12-15 10:59:50	/shoppers/models/admin/users/update-user.php	::1	localhost:8080
+2019-12-15 10:59:55	/shoppers/models/admin/users/update-user.php	::1	localhost:8080
+2019-12-15 11:00:06	/shoppers/models/users/send-updated-data.php	::1	localhost:8080
+2019-12-15 11:00:08	/shoppers/index.php	::1	Dusko	Stupar
+2019-12-15 11:00:27	/shoppers/models/admin/users/delete-user.php	::1	localhost:8080
+2019-12-15 11:00:29	/shoppers/index.php	::1	Dusko	Stupar
+2019-12-15 11:00:39	/shoppers/index.php	::1	Dusko	Stupar
+2019-12-15 11:00:40	/shoppers/index.php	::1	Dusko	Stupar
+2019-12-15 11:00:50	/shoppers/index.php	::1	Dusko	Stupar
+2019-12-15 11:00:51	/shoppers/index.php	::1	Dusko	Stupar
